@@ -1,6 +1,6 @@
-# 🍰 Coding & Cupcakes
+# 👩‍💻💞 Code Without Barriers
 
-Welcome to your sweet journey into AI-assisted coding with Michelle Sandford from Microsoft in collaboration with She Codes Australia!
+Welcome to your sweet journey into AI-assisted coding with Michelle Sandford from Microsoft in collaboration with Code Without Barriers!
 
 This workshop is all about using GitHub Copilot as your **coach**, **teacher**, and **pair programmer**—not your replacement.
 

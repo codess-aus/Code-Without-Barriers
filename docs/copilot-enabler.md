@@ -1,6 +1,6 @@
 # 🚀 Copilot as an Enabler
 
-Welcome to the final frosting layer of your Coding & Cupcakes journey! 🧁  
+Welcome to the final frosting layer of your Code without Barriers journey! 🧁  
 
 In this section, we’ll explore how GitHub Copilot can **enable** you to write cleaner, smarter, and more maintainable code—without taking over the kitchen.
 
