@@ -6,7 +6,7 @@ In this section, we’ll explore how GitHub Copilot can act as your **pair progr
 - ✨debug, 
 - 🎶and build smarter.
 
-## 🧁 What is Pair Programming?
+## 🐍💞 What is Pair Programming?
 
 Pair programming is a technique where two developers work together:
 
@@ -18,7 +18,7 @@ Copilot is your navigator—offering ideas, catching mistakes, and helping you s
 
 ---
 
-## 🍰 Copilot is Your Coding Buddy
+## 💞 Copilot is Your Coding Buddy
 
 Copilot shines when you:
 - 🎉 Know what you want to build
@@ -58,7 +58,7 @@ You can review it, tweak it, and learn from it.
 
 ---
 
-## 🍩 Example: Brainstorming with Copilot
+## 🌟✨ Example: Brainstorming with Copilot
 
 Let’s say you’re not sure how to store the ratings.  
 Try prompting Copilot:

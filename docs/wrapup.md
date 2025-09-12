@@ -1,6 +1,6 @@
 # 🎉 Wrap-Up & Resources
 
-You did it! 🧁
+You did it! 💞
 
 ### Key Takeaways:
 - You’re the baker. Copilot is your sous-chef.
@@ -11,5 +11,6 @@ You did it! 🧁
 - [GitHub Copilot Docs](https://docs.github.com/en/copilot)
 - [GitHub Copilot Fundamentals](https://learn.microsoft.com/en-us/training/paths/copilot/)
 - [GitHub Copilot Certification](https://learn.microsoft.com/en-us/credentials/certifications/github-copilot/?practice-assessment-type=certification)
-- [She Codes Australia](https://shecodes.com.au/)
+- [Code without Barriers](https://shecodes.com.au/)
+
 

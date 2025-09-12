@@ -28,7 +28,7 @@ def bake(cupcakes):
     return sorted(cupcakes)
 ```
 
-Copilot will often respond with a comment or rewrite that explains the logic.  
+Copilot will often respond with a comment or rewrite that explains the logic.  🐍
 
 You can also ask:
 ```python

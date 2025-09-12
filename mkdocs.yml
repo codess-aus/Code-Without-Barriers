@@ -1,4 +1,4 @@
-site_name: Coding & Cupcakes 🍰 with Microsoft & She Codes Australia
+site_name: Code without Barriers🍰 with Microsoft & Code without Barriers
 theme:
   name: material
   palette:
@@ -26,3 +26,4 @@ extra:
       link: https://bsky.app/profile/codess-aus.bsky.social
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/michellesandford
+

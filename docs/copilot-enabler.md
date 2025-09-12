@@ -6,7 +6,7 @@ In this section, we’ll explore how GitHub Copilot can **enable** you to write 
 
 ---
 
-## 🍰 What does “Enabler” mean?
+## 🌟✨ What does “Enabler” mean?
 
 An enabler helps you do more with what you already know.  
 Copilot can:
@@ -20,7 +20,7 @@ But remember: **you’re still the baker**. Copilot just hands you better tools.
 
 ---
 
-## 🧁 Refactoring with Copilot
+## 💻 Refactoring with Copilot
 
 Let’s say you’ve written a function that works, but it’s a bit messy:
 
