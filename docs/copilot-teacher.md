@@ -1,12 +1,12 @@
 # 👩‍🏫 Copilot as a Teacher
 
-Welcome to the classroom of code—with cupcakes! 🧁  
+Welcome to the classroom of Code without Barriers   🧑‍💻🔥
 
 👩In this section, we’ll explore how GitHub Copilot can be your **coding teacher**, helping you learn new concepts, understand syntax, and build confidence in your skills.
 
 ---
 
-## 🍰 What does it mean for Copilot to be a teacher?
+## 💻 What does it mean for Copilot to be a teacher? 🧑‍🔬
 
 Think of Copilot like a friendly tutor who:
 - Explains things when you ask
@@ -17,7 +17,7 @@ Copilot is great at **responding to curiosity**. The more questions you ask, the
 
 ---
 
-## 🧁 Learning Through Comments
+## 🧮 Learning Through Comments
 
 One of the best ways to use Copilot as a teacher is by writing comments that ask questions or describe what you want to learn.
 
@@ -123,7 +123,7 @@ This encourages Copilot to explain the difference, helping you understand **inte
 
 ---
 
-## 🧁 Practice with Mini Challenges
+## 🐍 Practice with Mini Challenges
 
 Try giving Copilot a challenge and see how it responds. Then review and improve the code.
 
