@@ -34,13 +34,10 @@ Instead, we want to **learn actively**.
 
 ## 🌟 Examples of Healthy Copilot Use
 
-### 1. Ask GitHub Copilot the 2 million questions you'd like to ask your Senior Dev but are afraid to because you don't want to be seen asking dumb questions 
-
+### 1. Ask GitHub Copilot the 2 million questions you'd like to ask your Senior Dev but are afraid to ask because you don't want to be seen asking dumb questions.  
 [👩‍💻💥hot take: There are no dumb questions].
 
-Here are some examples:
-
-**🔧 Code-Focused Questions for Junior Developers**
+Here are some examples but you can ask as many as you like GitHub Copilot will never judge you or get tired*:
 
 "Can you walk me through how this code works?"  
 *Helps build a deeper understanding of logic, structure, and flow.*
@@ -72,46 +69,48 @@ Here are some examples:
 "How do I write code that’s easy for others to understand?"  
 *Encourages readability, documentation, and team collaboration.*
 
+*If GitHub Copilot 🧑‍💻 runs out of tokens 🪙 because you are using the free version, switch to another model 🤖 from the list and keep asking questions ❓. It's not tired of you 😴, it's hungry 😋.
+
 
 ### 2. Questions you might save for your senior Dev
 
 **🧠 Learning & Growth**
 
-"Can you explain why we’re doing it this way?"
+"Can you explain why we’re doing it this way?"  
 *Helps understand the reasoning behind decisions and best practices. GitHub Copilot Enterprise would have the context of your organisations codebase and all their repositories (apart from those excluded), so it would be able to answer this, if the orgs docs are good and the code practices are consistent. But it's always good to get the perspective of your Senior Dev.*
 
-"What should I focus on learning next?"
+"What should I focus on learning next?"  
 *Guides your learning path based on team needs and your current level. This will tell you either what your Senior Dev thinks is most important, or what they think you do not know.*
 
-"How do I know if I’m writing good code?"
+"How do I know if I’m writing good code?"  
 *Encourages feedback on code quality, readability, and maintainability. GitHub Copilot will explain this to you really well, but it's good to know what your Senior Dev values and how they score code according to those metrics.*
 
 
-**🛠️ Technical & Workflow**
+**🛠️ Technical & Workflow**  
 
-"What’s the best way to debug this?"
+"What’s the best way to debug this?"  
 *Builds problem-solving skills and introduces tools or techniques. You can ask GitHub Copilot this first, get it's understanding and explanations. I spoke to a Senior Dev today that told me GitHub Copilot showed him a better way to Test something and explained why his way was not as good.*
 
-"How does this part of the system work?"
+"How does this part of the system work?"  
 *Deepens understanding of the codebase and architecture. GitHub Copilot can also explain this to you, but it would be useful to understand the code as your Senior Dev see's it. I think you should ask GitHub Copilot first - and then go to your Senior Dev when you mostly understand it and want their spin on it.*
 
-"What’s the process for reviewing and merging code?"
+"What’s the process for reviewing and merging code?"  
 *Clarifies team workflows and expectations for collaboration.*
 
 **🤝 Team & Communication**
 
-"Who should I ask when I’m stuck?"
+"Who should I ask when I’m stuck?"  
 *Helps avoid spinning wheels and encourages collaboration. Hopefully your Senior Dev will encourage you to come to them for help when you need to*
 
-"How can I contribute more effectively to the team?"
+"How can I contribute more effectively to the team?"  
 *Shows initiative and willingness to grow beyond assigned tasks.*
 
 **✅ Feedback & Improvement**
 
-"Can you review my code and give me feedback?"
+"Can you review my code and give me feedback?"  
 *Opens the door to mentorship and continuous improvement. But actually you could ask GitHub Copilot to Review your Code in the IDE and Codespace or from the Pull Request.*
 
-"What mistakes should I watch out for?"
+"What mistakes should I watch out for?"  
 *Helps avoid common pitfalls and learn from others’ experience.*
 
 ### 3. **Ask GitHub Copilot to explain code** 🐍
