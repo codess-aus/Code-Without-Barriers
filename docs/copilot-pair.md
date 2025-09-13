@@ -88,10 +88,10 @@ This turns Copilot into a **collaborator**, helping you think through the proble
 
 ## 🎂 Tips for Effective Pairing
 
-- 🍰 **Be intentional**: Use comments to describe what you want.
-- 🧁 **Stay in control**: Don’t accept suggestions blindly—review and refine.
-- 🍩 **Break tasks down**: Smaller steps = better suggestions.
-- 🍬 **Talk to Copilot**: Treat it like a teammate. Ask questions, give feedback.
+- 💡 **Be intentional**: Use comments to describe what you want.
+- 🧠 **Stay in control**: Don’t accept suggestions blindly—review and refine.
+- 🧮 **Break tasks down**: Smaller steps = better suggestions.
+- 👩‍🔬 **Talk to Copilot**: Treat it like a teammate. Ask questions, give feedback.
 
 ---
 
