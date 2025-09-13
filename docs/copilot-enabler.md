@@ -10,11 +10,11 @@ In this section, we’ll explore how GitHub Copilot can **enable** you to write 
 
 An enabler helps you do more with what you already know.  
 Copilot can:
-- 🧁Refactor messy code
-- 🍰Suggest improvements
-- 🎂Write tests
-- 🍩Add helpful comments
-- 🍬Help you debug
+- ✨Refactor messy code
+- 🧠Suggest improvements
+- 🧮Write tests
+- 💕Add helpful comments
+- 💡Help you debug
 
 But remember: **you’re still the baker**. Copilot just hands you better tools.
 
@@ -137,7 +137,7 @@ Now your code is easier to read and maintain!
 
 ---
 
-## 🎂 Debugging with Copilot
+## ⭐ Debugging with Copilot
 
 Stuck on a bug? Copilot can help you spot the issue.
 
