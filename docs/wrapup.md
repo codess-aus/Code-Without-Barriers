@@ -25,6 +25,6 @@ Never give up learning 🚀. You can write the code the world runs on 🌐, and 
 - [GitHub Copilot Docs](https://docs.github.com/en/copilot)
 - [GitHub Copilot Fundamentals](https://learn.microsoft.com/en-us/training/paths/copilot/)
 - [GitHub Copilot Certification](https://learn.microsoft.com/en-us/credentials/certifications/github-copilot/?practice-assessment-type=certification)
-- [Code without Barriers](https://shecodes.com.au/)
+- [Code without Barriers](https://www.microsoft.com/en-sg/codewithoutbarriers/)
 
 
