@@ -15,6 +15,7 @@ Let’s bake some code together! 🧁💻
   - `width`: (Optional) Controls the display size.
   Replace "your-video.mp4" with your actual video file path or URL.
 -->
-<video src="assets/20250708-111619-sora.mp4" autoplay loop muted playsinline width="400"></video>
+Done
+<video src="assets/20250707-122425-sora.mp4" autoplay loop muted playsinline width="400"></video>
 
 <p style="font-size: 0.8em; color: #666;">Video created with sora in Azure AI Foundry Video Playground</p>
