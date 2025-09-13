@@ -176,3 +176,6 @@ if __name__ == "__main__":
   Your browser does not support the video tag.
 </video>
 
+### 5. Ask GitHub Copilot to explain it to you like you are a grown up
+
+![Big](assets/big.png)
