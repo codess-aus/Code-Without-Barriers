@@ -2,17 +2,19 @@
 
 You did it! 💞
 
-Now remember - despite how it seems, no-one ever walked out of the birth canal and coded their 1st website. It takes a couple of years to learn how to work, and then, not well. Much longer to learn how to take care of yourself enough to be independant.
+Now remember, despite how it seems, no-one ever walked out of the birth canal and coded their 1st website 👶💻. It takes a couple of years to learn how to walk 🚶‍♀️ and to feed yourself 🍽️, and then, not well 😅. Much longer to learn how to take care of yourself enough to be independent 🧠💪
 
-![Bake](assets/walkedout.png)
+![Baby walked out the birth canal and coded his 1st app](assets/walkedout.png)
 
-You have to learn a little bit every day. When it starts to hurt your brain, stop. Go and drink some water and eat something. You can start again tomorrow. 
+So go easy on yourself 💖. You can learn a little bit every day 📚. When it starts to hurt your brain 🧠💥, stop. Go and drink some water 💧 and eat something 🍎. You can start again tomorrow 🌅.  
 
-A little bit of learning each day, byte-size peices, lead to larger blocks of learning taking hold in your brain.
+Byte-size pieces of learning 🧩 lead to larger blobs of learning taking hold in your brain 🧠✨.  
 
-Also - I hate to say it, but Python is not for everyone. There might be another language that makes more sense to you, to the way you process ideas. That's ok. You can try C# or Rust. Maybe it's Javascript. There are many languages out there and you shouldn't force yourself to learn one if it's not sticking. Have a look, GitHub Copilot will help you.
+Also, I hate to say it, but Python 🐍 is not for everyone. There might be another language that makes more sense to you, to the way you process ideas 🤔. That's ok 💁‍♀️. You can try C# ⚙️ or Rust 🦀. Maybe it's JavaScript 💻 (no judgement 😄). There are many languages out there 🌍 and you shouldn't force yourself to learn one if it's not sticking.  
 
-Never give up learning though. You can write the code the world runs on, and change the way it works if you want to.  
+Have a look, GitHub Copilot 🤖 will help you. I spoke to a Senior Dev this week who told me GitHub Copilot was helping them learn Rust 🧠🦀. (All the cool developers are using it 😎)  
+
+Never give up learning 🚀. You can write the code the world runs on 🌐, and change the way it works if you want to ✨.
 
 ### Key Takeaways:
 - You’re the baker. Copilot is your sous-chef.
