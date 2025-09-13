@@ -2,7 +2,7 @@
 
 Welcome to the most important ingredient in your Code without Barriers journey: **your mindset**! 🧠💡
 
-GitHub Copilot is a powerful tool—but like any good kitchen assistant, it works best when **you’re in charge**. This section is all about helping you shift from passive coding to **active learning**.
+GitHub Copilot is a powerful tool but like any good kitchen assistant, it works best when **you’re in charge**. This section is all about helping you shift from passive coding to **active learning**.
 
 ---
 
@@ -34,7 +34,9 @@ Instead, we want to **learn actively**.
 
 ## 🌟 Examples of Healthy Copilot Use
 
-### 1. Ask GitHub Copilot the 2 million questions you'd like to ask your Senior Dev but are afraid to because you don't want to be seen asking dumb questions [👩‍💻💥hot take: There are no dumb questions].
+### 1. Ask GitHub Copilot the 2 million questions you'd like to ask your Senior Dev but are afraid to because you don't want to be seen asking dumb questions 
+
+[👩‍💻💥hot take: There are no dumb questions].
 
 Here are some examples:
 
