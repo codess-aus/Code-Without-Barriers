@@ -125,7 +125,7 @@ def bake(cupcakes):
 
 ### 4. Ask GitHub Copilot to explain it to you like you are 5 years old
 
-![Bake](assets/Explainittome.GIF)
+![Explain](assets/Explainittome.gif)
 
 
 ### 5. **Ask GitHub Copilot to show you 5 different ways to solve the problem**
