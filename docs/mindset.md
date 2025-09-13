@@ -42,34 +42,34 @@ Here are some examples:
 
 **🔧 Code-Focused Questions for Junior Developers**
 
-"Can you walk me through how this code works?"
+"Can you walk me through how this code works?"  
 *Helps build a deeper understanding of logic, structure, and flow.*
 
-"What’s the best way to structure this function or component?"
+"What’s the best way to structure this function or component?"  
 *Encourages clean, maintainable, and scalable code practices.*
 
-"How do I know if this code is efficient?"
+"How do I know if this code is efficient?"  
 *Promotes awareness of performance, complexity, and optimization.*
 
-"Is there a more idiomatic way to write this in [language]?"
+"Is there a more idiomatic way to write this in [language]?"  
 *Helps learn language-specific best practices and conventions.*
 
-"How should I write a test for this code?"
+"How should I write a test for this code?"  
 *Builds good habits around testing and quality assurance.*
 
-"How do I debug this issue effectively?"
+"How do I debug this issue effectively?"  
 *Encourages learning tools and techniques for troubleshooting.*
 
-"What’s the difference between this approach and that one?"
+"What’s the difference between this approach and that one?"  
 *Fosters critical thinking and comparison of coding strategies.*
 
-"How do I handle errors or edge cases in this code?"
+"How do I handle errors or edge cases in this code?"  
 *Promotes robust and resilient coding practices.*
 
-"Can you review my code and suggest improvements?"
+"Can you review my code and suggest improvements?"  
 *GitHub Copilot can do this in the IDE, Codespace or from a Pull Request.*
 
-"How do I write code that’s easy for others to understand?"
+"How do I write code that’s easy for others to understand?"  
 *Encourages readability, documentation, and team collaboration.*
 
 
