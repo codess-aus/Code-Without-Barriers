@@ -16,6 +16,7 @@ nav:
   - Copilot as Enabler: copilot-enabler.md
   - Code Demos: demos/5ways.py
   - Wrap-Up & Resources: wrapup.md
+  - Assets: assets/readme.md
 
   # Extra
 extra:
