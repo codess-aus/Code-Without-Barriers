@@ -34,6 +34,7 @@ Instead, we want to **learn actively**.
 
 ## 🌟 Examples of Healthy Copilot Use
 
+
 ### 1. Ask GitHub Copilot the 2 million questions you'd like to ask your Senior Dev but are afraid to ask because you don't want to be seen asking dumb questions.  
 [👩‍💻💥hot take: There are no dumb questions].
 
