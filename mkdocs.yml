@@ -39,6 +39,8 @@ theme:
   # Accessible fonts and sizing
   font:
     text: 
+      - Comic Sans MS
+      - Comic Sans
       - system-ui
       - -apple-system
       - Segoe UI

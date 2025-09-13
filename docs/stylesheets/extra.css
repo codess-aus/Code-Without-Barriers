@@ -1,5 +1,11 @@
 /* Improve readability and accessibility */
 :root {
+    /* Add Comic Sans as web font */
+    @font-face {
+        font-family: 'Comic Sans MS';
+        src: local('Comic Sans MS');
+    }
+    
     /* Increase base font size */
     --md-text-font-size: 1rem;
     
