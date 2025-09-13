@@ -1,0 +1,29 @@
+site_name: Code without Barriers 💻💞 with Microsoft
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: deep purple
+  font:
+    text: Roboto
+    code: Roboto Mono
+nav:
+  - Home: index.md
+  - Welcome: welcome.md
+  - Mindset Shift: mindset.md
+  - Copilot as Teacher: copilot-teacher.md
+  - Copilot as Pair Programmer: copilot-pair.md
+  - Copilot as Enabler: copilot-enabler.md
+  - Code Demos: demos/5ways.py
+  - Wrap-Up & Resources: wrapup.md
+
+  # Extra
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/codess-aus
+    - icon: fontawesome/brands/twitter
+      link: https://bsky.app/profile/codess-aus.bsky.social
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/michellesandford
+
