@@ -1,12 +1,61 @@
 site_name: Code without Barriers 💻💞 with Microsoft
 theme:
   name: material
+  # Enable features for better accessibility
+  features:
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+    # Responsive tables
+    - content.tabs.link
+    - content.tooltips
+    # Make navigation more accessible
+    - toc.integrate
+    - toc.follow
+  # Color schemes and toggle
   palette:
-    primary: indigo
-    accent: deep purple
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  # Accessible fonts and sizing
   font:
-    text: Roboto
-    code: Roboto Mono
+    text: 
+      - system-ui
+      - -apple-system
+      - Segoe UI
+      - Roboto
+      - Helvetica Neue
+      - Arial
+      - sans-serif
+    code:
+      - Cascadia Code
+      - Source Code Pro
+      - Roboto Mono
+      - monospace
+  # Improve font sizes and spacing
+  font_size:
+    scale: 1.15
+  icon:
+    logo: material/book-open-page-variant
 nav:
   - Home: index.md
   - Welcome: welcome.md
